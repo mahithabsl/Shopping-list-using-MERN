@@ -1,4 +1,3 @@
 module.exports = {
-  mongoURI:
-    '<your mongo uri link>',
+  mongoURI: '<your mongo uri link>',
 };

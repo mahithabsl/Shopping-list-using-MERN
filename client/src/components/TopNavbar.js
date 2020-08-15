@@ -7,7 +7,6 @@ import {
   Nav,
   NavItem,
   NavLink,
-  NavbarText,
 } from 'reactstrap';
 
 class TopNavbar extends Component {
