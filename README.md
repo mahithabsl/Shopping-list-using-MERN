@@ -6,7 +6,7 @@ Requirement:
 
 - NodeJS 6+
 
-## Configuring the Mongo URI
+### Configuring the Mongo URI
 
 - Create a mongodb cluster on Atlas.
 - Copy the Mongo URI 
